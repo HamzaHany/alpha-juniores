@@ -1,0 +1,216 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+body.g {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(homebackground.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+body.l {
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+
+*{
+    font-family: arial;
+}
+
+.main1 {
+    display: flex;
+    background-image: url(color.jpg);
+    height: 70px;
+}
+
+.main2 {
+    display: flex;
+    background-color: whitesmoke;
+    height: 70px;
+}
+
+a.h {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+a.e {
+    display: inline-block;
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 25px;
+}
+
+.text1 {
+    display: flex;
+    color: white;
+}
+.text2 {
+    display: flex;
+    color: white;
+}
+
+.sign1 {
+    height: 45px;
+    font-size: 25px;
+    background-image: url(color.jpg);
+    border: 0px;
+}
+
+.sign2 {
+    height: 45px;
+    font-size: 25px;
+    background-color: white;
+    border: 0px;
+}
+
+.title {
+    background-color: dodgerblue;
+    text-align: center;
+    color: white;
+    height: 50px;
+    width: 693px;
+    margin-left: 330px;
+}
+.t{
+    padding: 10px;
+}
+
+.sessions {
+    flex-direction: column;
+}
+
+.session {
+    display: flex;
+     background-color: white;
+    text-align: left;
+    color: black;
+    height: 50px;
+    width: 690px;
+    margin-left: 330px;
+    border: 2px solid whitesmoke;
+    justify-content: space-between;
+
+}
+
+.v {
+    width: 255px;
+    height: 45px;
+    background-color: red;
+    border: 1px solid darkred;
+    color: white;
+    font-size: 20px;
+}
+
+.namee {
+    text-align: right;
+    width: 500px;
+    height: 40px;
+    border: 1px solid gray;
+    font-size: 18px;
+}
+.agee {
+    text-align: right;
+    width: 500px;
+    height:40px;
+    border: 1px solid gray;
+    font-size: 18px;
+}
+.numberr {
+    text-align: right;
+    width: 500px;
+    height:40px;
+    border: 1px solid gray;
+    font-size: 18px;
+}
+.emaill {
+    text-align: right;
+    width: 500px;
+    height:40px;
+    border: 1px solid gray;
+    font-size: 18px;
+}
+.passwordd {
+    text-align: right;
+    width: 500px;
+    height:40px;
+    border: 1px solid gray;
+    font-size: 18px;
+}
+.slectt {
+    width: 500px;
+    height:40px;
+    border: 1px solid gray;
+    font-size: 18px;
+}
+.m {
+    text-align: center;
+}
+.n {
+    text-align: center;
+    color: dodgerblue;
+    font-size: 23px;
+}
+.c {
+    text-decoration: none;
+}
+
+.goo {
+    width: 500px;
+    height:40px;
+    background-color: dodgerblue;
+    color: white;
+    border: 0px;
+    font-size: 18px;
+}
+.gooo {
+    width: 500px;
+    height:40px;
+    background-color: dodgerblue;
+    color: white;
+    border: 0px;
+    font-size: 18px;
+}
+
+.signupp {
+    display: flex;
+    justify-content: center;
+}
+
+.textt {
+    text-align: center;
+}
+
+.imagee {
+    text-align: center;
+}
+
+.all {
+    text-align: center;
+}
+
+.footer {
+    background: #6ecde5;
+    color: white;
+    height: 60px;
+    text-align: center;
+}
+.footerr {
+    padding: 20px;
+}
+
+.texttt {
+    text-align: center;
+}
+.imageee {
+    display: inline-block;
+}
+.contact {
+    display: inline-block;
+}
